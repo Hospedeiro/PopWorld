@@ -12,7 +12,7 @@ versao: "2.0",
 fdpta: "on",
 };
 
-var Bot = {}; //    [Hospedeiro]
+var Bot = {}; //    ["Hospedeiro"]
 
 easyBot.roleta = {
                 roletaStatus: false,
